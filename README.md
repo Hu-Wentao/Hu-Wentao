@@ -14,5 +14,6 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Hu-Wentao)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hu-Wentao&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Wyatt%20Coder;Code%20as%20Artist)](https://git.io/typing-svg)
 
